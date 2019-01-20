@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreadDownloader</string>
+    <string name="selector_text_placeholder">Selector goes here</string>
+    <string name="selector_label">Selector</string>
+    <string name="link_text_placeholder">URL goes here</string>
+    <string name="link_label">URL to parse</string>
+    <string name="download_button_label">Download links</string>
+</resources>
