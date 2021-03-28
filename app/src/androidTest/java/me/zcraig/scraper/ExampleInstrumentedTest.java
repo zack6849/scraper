@@ -1,4 +1,4 @@
-package me.zcraig.threaddownloader;
+package me.zcraig.scraper;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

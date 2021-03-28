@@ -1,4 +1,4 @@
-package me.zcraig.threaddownloader;
+package me.zcraig.scraper;
 
 import org.junit.Test;
 
